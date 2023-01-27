@@ -12,9 +12,9 @@ This kind of app is one of the most usual in the real world, what you will learn
 
 ### Screenshots
 
-[![Screenshot 1](screenshots/screen_1.png)](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/26643/1664728012/main.png)
-[![Screenshot 2](screenshots/screen_2.png)](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/26643/1664728022/detail.png)
-[![Screenshot 3](screenshots/screen_3.png)](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/26643/1664728101/internet.png)
+![ss1]([http://url/to/img.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/26643/1664728012/main.png))
+![ss2]([http://url/to/img.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/26643/1664728022/detail.png))
+![ss3]([http://url/to/img.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/26643/1664728101/internet.png))
 
 ## Project Instructions
 
